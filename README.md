@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Telegram Kingdom Game – Starter Project
 
 ## Structure
@@ -60,3 +61,7 @@ npm run dev
 ---
 
 Good luck! 🚀
+=======
+# era_X
+Telegram game
+>>>>>>> 625031bb22f05f360b3cc442f6ef0403c9acee69
